@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Board">
+    <Position X="1.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAEBKAIAIAAAAAAAICAgAAAABgIAAAAADAwAEA=</HashCode>
+      <FileName>board.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LineBag">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAAAABAgAAAAAAAAAAAAAAAAAAAAAAAgIAAAA=</HashCode>
+      <FileName>linebag.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAA=</HashCode>
+      <FileName>logger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trunk">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEAQAAAAAACAAAAAAAIAAAgAAAAAAAAIAAAIAgAQE=</HashCode>
+      <FileName>trunk.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
